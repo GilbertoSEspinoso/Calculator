@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Dev\\MysRepositorys\\Calculator\\Calculator.csproj": {}
+    "C:\\DEV\\MysRepositorys\\Calculator\\Calculator.csproj": {}
   },
   "projects": {
-    "C:\\Dev\\MysRepositorys\\Calculator\\Calculator.csproj": {
+    "C:\\DEV\\MysRepositorys\\Calculator\\Calculator.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Dev\\MysRepositorys\\Calculator\\Calculator.csproj",
+        "projectUniqueName": "C:\\DEV\\MysRepositorys\\Calculator\\Calculator.csproj",
         "projectName": "Calculator",
-        "projectPath": "C:\\Dev\\MysRepositorys\\Calculator\\Calculator.csproj",
+        "projectPath": "C:\\DEV\\MysRepositorys\\Calculator\\Calculator.csproj",
         "packagesPath": "C:\\Users\\gilbe\\.nuget\\packages\\",
-        "outputPath": "C:\\Dev\\MysRepositorys\\Calculator\\obj\\",
+        "outputPath": "C:\\DEV\\MysRepositorys\\Calculator\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
